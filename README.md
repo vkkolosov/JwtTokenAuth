@@ -42,7 +42,6 @@ HEADERS
 'Authorization:
 Bearer_eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0MTIzIiwicm9sZXMiOlsiVVNFUiJdLCJpYXQiOjE2NTExNjczNTksImV4cCI6MTY1MTE3MDk1OX0.BoOlJCiDwMjnic5UIDapAx9t2FrxVSr9H9qW7-uNslg'
 
---------------------
 v2
 --------------------
 
